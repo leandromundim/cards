@@ -1,9 +1,6 @@
 # Site settings
 title: Pod da risada
-email: leandroresendemundim@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Bootstrap based jekyll theme.
-  
+email: leandroresendemundim@gmail.com  
   
   
 baseurl: "/cards" # the subpath of your site, e.g. /blog
