@@ -22,7 +22,7 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 #footer
 built-by: Leandro Mundim
 copyright:
-   name: Mundim
+   name: Leandro Mundim
    link: 'http://leandromundim.com'
 
 # Build settings
@@ -30,9 +30,6 @@ markdown: kramdown
 permalink: /:title/
 paginate: 9
 paginate_path: /page:num/
-
-# Comments
-disqus-shortname: webjeda-demo
 
 #social
 facebook: http://facebook.com/drmundim
