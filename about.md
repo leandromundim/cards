@@ -9,6 +9,7 @@ permalink: /about/
 
 Desde o início de sua atuação no mercado de desenvolvimento humano, Lucas Santos é conhecido por seus clientes não apenas por realizar um excelente trabalho, mas, principalmente, por realizar algo marcante na vida de todas as pessoas e organizações. A continuidade do processo aprendido em suas apresentações, de forma independente e duradoura, é um dos valores fundamentais que regem cada palestra e treinamento ministrado por ele.
 
+
 O foco das palestras de Lucas Santos é atender exatamente as necessidades do público. Logo, tende a impulsionar os ouvintes a buscar novas ações e comportamentos que podem mudar os resultados de suas vidas. Lucas trabalha com palestras desenvolvidas e/ou personalizadas de acordo com a necessidade do cliente, onde é realizado um briefing para a busca da melhor solução para o momento da empresa e das pessoas que a compõe. Dessa forma, tanto suas palestras quanto seus workshops e treinamentos são reestruturados de acordo com a identidade e valores do público atendido.
 
 Lucas Santos é especialista em autoconhecimento, produtividade, gestão do tempo e organização. Mas seu verdadeiro diferencial é trabalhar cada um desses temas utilizando ferramentas de motivação, positividade e comunicação. O resultado disso são efeitos duradouros e fáceis de serem colocados em prática por todos que o assistem.
