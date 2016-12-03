@@ -2,7 +2,7 @@
 layout: post
 title:  "Vídeo Institucional"
 categories: jekyll update
-img: europa1.png
+img: cards-7.png
 categories: two
 ---
 
