@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre mim 
-permalink: /about/
+permalink: /sobre/
 ---
 ![lucas logo]({{site.baseurl}}/images/LogoFinal.png)
 
