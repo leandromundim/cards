@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Diga não!"
+title:  "ORGANIZE-SE E VIVA MELHOR!"
 categories: jekyll update
 img: cards-5.png
 categories: two
