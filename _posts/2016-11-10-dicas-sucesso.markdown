@@ -6,7 +6,7 @@ img: cards-3.png
 categories: two
 ---
 
-Este é o terceiro vídeo da série! 
+Este é o segundo vídeo da série! 
 
 <div class='embed-container'>
 <iframe style="width: 100% !important; height: 400px"  src="https://www.youtube.com/embed/cgEZN9uuw6A" frameborder="0" allowfullscreen></iframe>
