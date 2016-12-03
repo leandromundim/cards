@@ -3,7 +3,7 @@ title: Lucas Santos
 email: leandroresendemundim@gmail.com  
   
   
-baseurl: "/cards" # the subpath of your site, e.g. /blog
+baseurl: "/lspalestrante" # the subpath of your site, e.g. /blog
 url: "http://leandromundim.com" # the base hostname & protocol for your site
 
 #sidebar
