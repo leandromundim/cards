@@ -6,6 +6,14 @@ img: europa1.png
 categories: two
 ---
 
-Vídeo:
+Vídeo do Lucas:
 
-<div class='embed-container'><iframe style="width: 100% !important; height: 400px" src='https://www.youtube.com/watch?v=6pCdn4i0uBg&t=1s' frameborder='0' allowfullscreen></iframe></div>
+.... <!-- post content -->
+
+<div class="iframe_container">
+  <iframe src="http://www.youtube.com/embed/6pCdn4i0uBg" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</div>
+
+.... <!-- post content -->
+
+
