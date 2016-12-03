@@ -2,7 +2,7 @@
 layout: post
 title:  "RECLAME MENOS"
 categories: jekyll update
-img: cards-5.png
+img: cards-2.png
 categories: two
 ---
 
