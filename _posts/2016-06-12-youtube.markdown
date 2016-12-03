@@ -8,12 +8,8 @@ categories: two
 
 Vídeo do Lucas:
 
-.... <!-- post content -->
+<iframe src="http://www.youtube.com/embed/6pCdn4i0uBg" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
 
-<div class="iframe_container">
-  <iframe src="http://www.youtube.com/embed/6pCdn4i0uBg" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
-</div>
 
-.... <!-- post content -->
 
 
