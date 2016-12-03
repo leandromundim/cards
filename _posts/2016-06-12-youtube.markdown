@@ -6,4 +6,4 @@ img: europa1.png
 categories: two
 ---
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+<div class='embed-container'><iframe style="width: 100% !important; height: 400px" src='https://www.youtube.com/embed/PxLJg6v-u2k' frameborder='0' allowfullscreen></iframe></div>
