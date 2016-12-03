@@ -2,7 +2,7 @@
 layout: post
 title:  "Diga não!"
 categories: jekyll update
-img: europa1.png
+img: cards-6.png
 categories: two
 ---
 
