@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ORGANIZE-SE E VIVA MELHOR!"
+title:  "ORGANIZE-SE!"
 categories: jekyll update
 img: cards-5.png
 categories: two
