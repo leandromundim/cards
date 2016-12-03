@@ -7,9 +7,7 @@ categories: two
 ---
 
 Vídeo do Lucas:
-
-<iframe src="https://www.youtube.com/watch?v=6pCdn4i0uBg&t=1s" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+<div class='embed-container'><iframe style="width: 100% !important; height: 400px" src='https://www.youtube.com/embed/6pCdn4i0uBg"' frameborder='0' allowfullscreen></iframe></div>
 
 
 
